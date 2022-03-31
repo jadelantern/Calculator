@@ -6,11 +6,11 @@ This project was used as a test to test my current skills without the use of Goo
 ## Expectations
 Before starting this project I had these expectations:
 
-• Get a better understand of how a calculator works.
+• Get a better understand of how a calculator works under the hood.
 
 • I expected this project to be very difficult as I have never tried to make a project like this previously.
 
-• I had never worked with a method that was passed information and proccessed mathmatical calculations.
+• I had never worked with a method that was passing information and proccessed mathmatical calculations.
 
 • I was not sure how I would end up organizing all the code.
 
